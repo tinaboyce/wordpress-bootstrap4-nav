@@ -3,6 +3,7 @@
      * Modified from Wordpress Core
      * https://github.com/WordPress/WordPress/blob/master/wp-includes/class-walker-nav-menu.php
      * 
+     * Written by Tina Boyce (https://github.com/tinaboyce/, Twitter @elegantpoem)
      * Written for Bootstrap 4.0.0-alpha.6
      */
    
